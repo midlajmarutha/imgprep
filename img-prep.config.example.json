@@ -1,0 +1,14 @@
+{
+  "output": "public/images",
+  "widths": "400,800,1600",
+  "format": "webp",
+  "quality": 80,
+  "recursive": true,
+  "aspect": "4:5",
+  "position": "attention",
+  "grayscale": false,
+  "sharpen": false,
+  "blur": true,
+  "prefix": "/images",
+  "manifest": "images.json"
+}

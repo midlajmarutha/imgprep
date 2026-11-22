@@ -1,0 +1,20 @@
+{
+  "name": "img-prep",
+  "version": "1.0.0",
+  "description": "Batch image preprocessing CLI for Next.js and other web apps: resize, convert, crop, blur placeholders and a manifest.",
+  "type": "module",
+  "bin": {
+    "img-prep": "./bin/img-prep.js"
+  },
+  "files": [
+    "bin",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {
+    "sharp": "^0.34.0"
+  },
+  "license": "MIT"
+}
